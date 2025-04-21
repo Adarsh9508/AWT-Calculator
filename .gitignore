@@ -1,0 +1,6 @@
+# Ignore all .class files (Java bytecode)
+*.class
+
+# Ignore system-specific files (optional)
+.DS_Store
+Thumbs.db
